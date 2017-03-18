@@ -1,0 +1,47 @@
+<style>
+    h1 { color: red;
+		font-size: 4em;
+		text-decoration: underline;
+		font: arial;
+		text-align: center
+		
+		  }
+	body  { background-color: white;
+			  font-size: 17px;
+			  font-weight: bold;
+			  line-height: 2em;
+		  		font-style: oblique;
+			  text-align: justify;
+			font-family: sans-serif;
+		font: arial;
+		padding: 20px;
+
+		}	
+	  
+.zanr, .autor, .zdroj {text-align: right;
+	}
+
+.autor, .zdroj {margin-top: inherit;
+	margin-bottom: inherit;
+	}
+h2 {font-size: 2em;
+	color: indianred;
+	
+}
+i {font-style: italic;
+	color: darkslategrey;
+	}
+blockquote {color: darkred;
+	
+}
+li {border: dashed black 2px;
+		}  
+div {background-image: url(http://www.auto-samolepky.cz/images/_102006.jpg);
+background-repeat: no-repeat;
+	background-position: right 32%;
+float: none;
+}
+footer {font-size: 2em;
+	text-align: center;
+}
+</style>
